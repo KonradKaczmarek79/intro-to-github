@@ -14,3 +14,8 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+To work on a separate branch, use one of the commands listed below:
+
+- `git checkout -b new_branch_name` and then you are on your new branch
+- `git branch new_branch_name` and then go to it using one of commands: `git checkout new_branch_name` or `git switch new_branch_name`
